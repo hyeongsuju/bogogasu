@@ -1,5 +1,4 @@
 # bogogashu
-<h1>
 주요 개발환경
 java 8v, Oracle11g, JSP, Mybatis, jQuery, Tiles, bootstrap
 주요기능
