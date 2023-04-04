@@ -1,5 +1,5 @@
 # bogogashu
-![header](https://capsule-render.vercel.app/api?height=400&text=어서오세요%20환영합니다!&desc=Hello%20WelCome)
+![header](https://capsule-render.vercel.app/api?height=300&text=어서오세요%20환영합니다!&desc=Hello%20WelCome)
 
 📒Tech Stack📒
 
