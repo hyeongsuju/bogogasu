@@ -1,6 +1,7 @@
 # bogogashu
 ![header](https://capsule-render.vercel.app/api?height=400&text=어서오세요%20환영합니다!&desc=Hello%20WelCome)
 
+📒Tech Stack📒
 
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white%22%3E">
@@ -18,6 +19,7 @@
 
 </div>
 
-### Tools
+⚒Tools⚒
+
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
